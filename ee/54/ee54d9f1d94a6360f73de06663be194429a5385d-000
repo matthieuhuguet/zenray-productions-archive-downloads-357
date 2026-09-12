@@ -1,0 +1,69 @@
+# Short du 2026-09-12 : vestibule, Copernicus et matériaux
+
+Dossier de travail : `~/Downloads/tmp-shorts-vestibule-louisiana-bayou/`
+Caméra : `/obj/cam_shorts2`, tour complet en 30 secondes, 720 images à 24 ips, vue trois quarts.
+Sous-titres : 10 cues de 3 secondes, deux lignes par cue, Inter SemiBold, `#edc853`.
+Titre : pastille blanche, AnthropicSans SemiBold Italic.
+
+## Les 10 cues du short, 3 secondes chacun
+
+| # | Temps | Ligne 1 | Ligne 2 |
+|---:|---|---|---|
+| 1 | 0,0 à 3,0 | Today I continued developing | my procedural Louisiana bayou church in Houdini. |
+| 2 | 3,0 à 6,0 | I added a vestibule that I placed | on the porch stairs, asymmetrically. |
+| 3 | 6,0 à 9,0 | It sits off-center | as part of the porch entrance. |
+| 4 | 9,0 à 12,0 | I also started a Copernicus workflow | for procedural materials like Substance Designer. |
+| 5 | 12,0 à 15,0 | Its advantage is staying | inside the same software. |
+| 6 | 15,0 à 18,0 | I will see how far Copernicus can go | compared with Substance Designer. |
+| 7 | 18,0 à 21,0 | Across my existing components, | I identified the material tags. |
+| 8 | 21,0 à 24,0 | Those tags assign materials | directly to the geometry. |
+| 9 | 24,0 à 27,0 | I chose four materials from | my concept art and reference images. |
+| 10 | 27,0 à 30,0 | Next is the Karma XPU lookdev render. | I already set up the graph. |
+
+## Le post, trilingue
+
+🇬🇧 EN/🇯🇵 日本語/🇫🇷 FR
+
+Today I continued developing my procedural Louisiana bayou church in Houdini, adding a vestibule that I placed on the porch stairs, asymmetrically.
+
+I also started a Copernicus workflow for procedural materials, inspired by Substance Designer. Its advantage is staying inside the same software. I will see how far Copernicus can go compared with Substance Designer.
+
+Across my existing components, I identified the material tags that assign materials directly to the geometry. I chose four materials from my concept art and reference images.
+
+Next comes the lookdev render in Karma XPU. I already set up the graph.
+
+---
+
+今日は、Houdiniで制作しているルイジアナのバイユー教会を続け、ポーチの階段に新しい非対称のベスティビュールを追加しました。
+
+Substance Designerのようなプロシージャルマテリアルを作るため、Copernicusのワークフローも始めました。同じソフトウェアの中で作業を続けられるのが利点です。Substance Designerと比べてどこまでできるか、これから確かめます。
+
+既存のコンポーネントで、ジオメトリへマテリアルを割り当てるタグを確認しました。コンセプトアートと資料画像から、四つのマテリアルを決めました。
+
+次はKarma XPUでルックデブをレンダーします。グラフはすでに組みました。
+
+---
+
+Aujourd'hui, j'ai continué à développer la modélisation procédurale de mon église du bayou louisianais dans Houdini, en ajoutant un vestibule que j'ai placé sur le porche, de manière asymétrique, au-dessus des escaliers.
+
+J'ai aussi commencé une méthode Copernicus pour créer des matériaux procéduraux, à la manière de Substance Designer. Son intérêt est de rester dans le même logiciel. Je verrai avec le temps jusqu'où Copernicus peut aller par rapport à Substance Designer.
+
+Sur mes composants existants, j'ai identifié les tags qui assignent les matériaux directement à la géométrie. J'ai déterminé quatre matériaux à partir de mon concept art et de mes images de référence.
+
+La prochaine étape est le rendu lookdev sur Karma XPU. J'ai déjà monté le graphe.
+
+#houdini #3d #proceduralmodeling
+
+## État technique
+
+Le vestibule est ajouté à la modélisation de l'église. La méthode Copernicus est commencée pour les matériaux procéduraux, les tags relient les composants à la géométrie, et le graphe de lookdev Karma XPU est prêt pour le rendu.
+
+## Vérifications
+
+| Contrôle | Résultat |
+|---|---|
+| Cues | 10 cues, 3 secondes chacun, 30 secondes |
+| Lignes de sous-titres | 20 lignes, deux par cue |
+| Matériaux | quatre familles issues du concept art et des références |
+| Copernicus | méthode commencée, comparaison avec Substance Designer à tester |
+| Lookdev | graphe Karma XPU déjà monté, rendu à produire |
